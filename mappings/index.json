@@ -1,58 +1,134 @@
 {
-  "v0.1.2.0.13214634": {
+  "0.1.2.0_1": {
     "Url": "https://drayx.github.io/Palworld-FModel/8605171818799657768/Mappings.usmap",
-    "FileName": "Palworld-v0.1.2.0.13214634.usmap"
+    "FileName": "Palworld-0.1.2.0_1.usmap"
   },
-  "v0.1.2.0.13218815": {
-    "Url": "https://drayx.github.io/Palworld-FModel/976963049186623376/Mappings.usmap",
-    "FileName": "Palworld-v0.1.2.0.13218815.usmap"
+  "0.1.2.0_2": {
+    "Url": "https://drayx.github.io/Palworld-FModel/0976963049186623376/Mappings.usmap",
+    "FileName": "Palworld-0.1.2.0_2.usmap"
   },
-  "v0.1.3.0.13269235": {
+  "0.1.3.0_1": {
     "Url": "https://drayx.github.io/Palworld-FModel/3342275935773654592/Mappings.usmap",
-    "FileName": "Palworld-v0.1.3.0.13269235.usmap"
+    "FileName": "Palworld-0.1.3.0_1.usmap"
   },
-  "v0.1.3.0.13289641": {
+  "0.1.3.0_2": {
     "Url": "https://drayx.github.io/Palworld-FModel/5648640939958426658/Mappings.usmap",
-    "FileName": "Palworld-v0.1.3.0.13289641.usmap"
+    "FileName": "Palworld-0.1.3.0_2.usmap"
   },
-  "v0.1.4.0.13312439": {
+  "0.1.4.0": {
     "Url": "https://drayx.github.io/Palworld-FModel/5639405469130386547/Mappings.usmap",
-    "FileName": "Palworld-v0.1.4.0.13312439.usmap"
+    "FileName": "Palworld-0.1.4.0.usmap"
   },
-  "v0.1.4.1.13378659": {
+  "0.1.4.1_1": {
     "Url": "https://drayx.github.io/Palworld-FModel/1683753842287382759/Mappings.usmap",
-    "FileName": "Palworld-v0.1.4.1.13378659.usmap"
+    "FileName": "Palworld-0.1.4.1_1.usmap"
   },
-  "v0.1.4.1.13390747": {
+  "0.1.4.1_2": {
     "Url": "https://drayx.github.io/Palworld-FModel/1949502700376335509/Mappings.usmap",
-    "FileName": "Palworld-v0.1.4.1.13390747.usmap"
+    "FileName": "Palworld-0.1.4.1_2.usmap"
   },
-  "v0.1.5.0.13559302": {
-    "Url": "https://drayx.github.io/Palworld-FModel/833380105645566533/Mappings.usmap",
-    "FileName": "Palworld-v0.1.5.0.13559302.usmap"
+  "0.1.5.0": {
+    "Url": "https://drayx.github.io/Palworld-FModel/0833380105645566533/Mappings.usmap",
+    "FileName": "Palworld-0.1.5.0.usmap"
   },
-  "v0.1.5.1.13585486": {
+  "0.1.5.1": {
     "Url": "https://drayx.github.io/Palworld-FModel/2991472455664525389/Mappings.usmap",
-    "FileName": "Palworld-v0.1.5.1.13585486.usmap"
+    "FileName": "Palworld-0.1.5.1.usmap"
   },
-  "v0.2.0.6.13920759": {
+  "0.2.0.6": {
     "Url": "https://drayx.github.io/Palworld-FModel/3574480965585396942/Mappings.usmap",
-    "FileName": "Palworld-v0.2.0.6.13920759.usmap"
+    "FileName": "Palworld-0.2.0.6.usmap"
   },
-  "v0.2.1.0.13947002": {
+  "0.2.1.0": {
     "Url": "https://drayx.github.io/Palworld-FModel/3498307192858224760/Mappings.usmap",
-    "FileName": "Palworld-v0.2.1.0.13947002.usmap"
+    "FileName": "Palworld-0.2.1.0.usmap"
   },
-  "v0.2.2.0.14008371": {
+  "0.2.2.0": {
     "Url": "https://drayx.github.io/Palworld-FModel/3203303150592572862/Mappings.usmap",
-    "FileName": "Palworld-v0.2.2.0.14008371.usmap"
+    "FileName": "Palworld-0.2.2.0.usmap"
   },
-  "v0.2.3.0.14092662": {
-    "Url": "https://drayx.github.io/Palworld-FModel/995173158610470056/Mappings.usmap",
-    "FileName": "Palworld-v0.2.3.0.14092662.usmap"
+  "0.2.3.0": {
+    "Url": "https://drayx.github.io/Palworld-FModel/0995173158610470056/Mappings.usmap",
+    "FileName": "Palworld-0.2.3.0.usmap"
   },
-  "v0.2.4.0.14326303": {
+  "0.2.4.0": {
     "Url": "https://drayx.github.io/Palworld-FModel/2874546306810319156/Mappings.usmap",
-    "FileName": "Palworld-v0.2.4.0.14326303.usmap"
+    "FileName": "Palworld-0.2.4.0.usmap"
+  },
+  "0.3.1.55394": {
+    "Url": "https://drayx.github.io/Palworld-FModel/2089882663493737389/Mappings.usmap",
+    "FileName": "Palworld-0.3.1.55394.usmap"
+  },
+  "0.3.2.55495": {
+    "Url": "https://drayx.github.io/Palworld-FModel/3890458961069411677/Mappings.usmap",
+    "FileName": "Palworld-0.3.2.55495.usmap"
+  },
+  "0.3.3.55731": {
+    "Url": "https://drayx.github.io/Palworld-FModel/9079652666183995129/Mappings.usmap",
+    "FileName": "Palworld-0.3.3.55731.usmap"
+  },
+  "0.3.4.56710": {
+    "Url": "https://drayx.github.io/Palworld-FModel/3882354099219488275/Mappings.usmap",
+    "FileName": "Palworld-0.3.4.56710.usmap"
+  },
+  "0.3.5.57064": {
+    "Url": "https://drayx.github.io/Palworld-FModel/6351564219124610000/Mappings.usmap",
+    "FileName": "Palworld-0.3.5.57064.usmap"
+  },
+  "0.3.5.57289": {
+    "Url": "https://drayx.github.io/Palworld-FModel/2643993220327101580/Mappings.usmap",
+    "FileName": "Palworld-0.3.5.57289.usmap"
+  },
+  "0.3.6.57672": {
+    "Url": "https://drayx.github.io/Palworld-FModel/5499425458193087917/Mappings.usmap",
+    "FileName": "Palworld-0.3.6.57672.usmap"
+  },
+  "0.3.7.58983": {
+    "Url": "https://drayx.github.io/Palworld-FModel/8577380675130776909/Mappings.usmap",
+    "FileName": "Palworld-0.3.7.58983.usmap"
+  },
+  "0.3.8.59315": {
+    "Url": "https://drayx.github.io/Palworld-FModel/0039969605343441342/Mappings.usmap",
+    "FileName": "Palworld-0.3.8.59315.usmap"
+  },
+  "0.3.9.59545": {
+    "Url": "https://drayx.github.io/Palworld-FModel/5020670604831984175/Mappings.usmap",
+    "FileName": "Palworld-0.3.9.59545.usmap"
+  },
+  "0.3.10.61027": {
+    "Url": "https://drayx.github.io/Palworld-FModel/7452581219171046779/Mappings.usmap",
+    "FileName": "Palworld-0.3.10.61027.usmap"
+  },
+  "0.3.10.61184": {
+    "Url": "https://drayx.github.io/Palworld-FModel/8851472711009350092/Mappings.usmap",
+    "FileName": "Palworld-0.3.10.61184.usmap"
+  },
+  "0.3.11.63395": {
+    "Url": "https://drayx.github.io/Palworld-FModel/6367180576310805716/Mappings.usmap",
+    "FileName": "Palworld-0.3.11.63395.usmap"
+  },
+  "0.3.12.63518": {
+    "Url": "https://drayx.github.io/Palworld-FModel/8455286032961126286/Mappings.usmap",
+    "FileName": "Palworld-0.3.12.63518.usmap"
+  },
+  "0.4.11.64554": {
+    "Url": "https://drayx.github.io/Palworld-FModel/9057099049799148564/Mappings.usmap",
+    "FileName": "Palworld-0.4.11.64554.usmap"
+  },
+  "0.4.11.64664": {
+    "Url": "https://drayx.github.io/Palworld-FModel/2658095873789982580/Mappings.usmap",
+    "FileName": "Palworld-0.4.11.64664.usmap"
+  },
+  "0.4.12.64723": {
+    "Url": "https://drayx.github.io/Palworld-FModel/6644048754737958588/Mappings.usmap",
+    "FileName": "Palworld-0.4.12.64723.usmap"
+  },
+  "0.4.13.65089": {
+    "Url": "https://drayx.github.io/Palworld-FModel/3600327480226312038/Mappings.usmap",
+    "FileName": "Palworld-0.4.13.65089.usmap"
+  },
+  "0.4.14.65422": {
+    "Url": "https://drayx.github.io/Palworld-FModel/9138950143375754072/Mappings.usmap",
+    "FileName": "Palworld-0.4.14.65422.usmap"
   }
 }
